@@ -122,8 +122,8 @@ Pfizer kids at Home
 			<div class="formulario__grupo" id="grupo__terminos">
 				<label class="formulario__label">
 					<input class="formulario__checkbox" type="checkbox" name="terminos" id="terminos">
-					Acepto los Terminos y Condiciones
-				</label>
+					Acepto los Terminos y Condiciones			
+	</label>
 			</div>
 
 			<div class="formulario__mensaje" id="formulario__mensaje">
